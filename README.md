@@ -1,2 +1,5 @@
 # code-samples
-sample codes from past projects
+Sample codes from past projects
+1. Python: 
+   code_sample_python_
+   Sample python code, scientific computing stack + generative modeling with Pyro
