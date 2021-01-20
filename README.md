@@ -7,7 +7,7 @@ Sample codes from past projects
 
 Scientific computing stack + generative modeling with Pyro
 
-### [code_samople_python_fmri_classify_decode.ipynb](code_samople_python_fmri_classify_decode.ipynb)
+### [code_samople_python_fmri_classify_decode.ipynb](./code_samople_python_fmri_classify_decode.ipynb)
 
 Building a classifier with scikit-learn and using it for fmri decoding
 
